@@ -1,0 +1,25 @@
+Participant,Age,Gender,Experiment Type,Number of Objects 1,Number of Objects 2,Number of Objects 3,Number of Objects 4,Average Recall
+1,22,Female,NM,9,7,8,6,7.5
+2,19,Female,NM,11,6,10,10,9.25
+3,21,Female,NM,11,6,8,7,8
+4,21,Female,NM,10,10,9,7,9
+5,19,Male,NM,6,7,7,8,7
+6,19,Male,NM,14,13,9,7,10.75
+7,20,Male,NM,10,8,9,6,8.25
+8,19,Male,NM,7,9,9,11,9
+9,21,Female,L,12,10,9,8,9.75
+10,19,Female,L,12,12,13,12,12.25
+11,21,Female,L,14,11,10,12,11.75
+12,19,Female,L,12,10,12,8,10.5
+13,22,Male,L,8,8,7,6,7.25
+14,25,Male,L,5,6,5,4,5
+15,23,Male,L,7,6,6,5,6
+16,24,Male,L,6,3,6,4,4.75
+17,20,Female,I,10,10,9,10,9.75
+18,19,Female,I,7,6,4,5,5.5
+19,20,Female,I,5,9,7,4,6.25
+20,18,Female,I,10,5,11,12,9.5
+21,20,Male,I,10,12,9,11,10.5
+22,20,Male,I,8,7,7,7,7.25
+23,22,Male,I,8,5,3,3,4.75
+24,23,Male,I,15,14,16,15,15
