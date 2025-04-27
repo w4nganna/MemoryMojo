@@ -1,6 +1,6 @@
 # MemoryMojo: Effects of Music on Short-Term Memory
 
-This project investigated how the presence and genre of background music influence short-term visual recall. With 24 participants divided equally among three conditions—instrumental music, lyrical music, and no music—the experiment had each participant view 16 images for 30 seconds across four rounds, followed by immediate recall.
+This project investigated how the presence and genre of background music influence short-term visual recall. With 24 participants divided equally among three conditions: instrumental music, lyrical music, and no music. The experiment had each participant view 16 images for 30 seconds across four rounds, followed by immediate recall.
 
 ![avgRecall](https://github.com/user-attachments/assets/477c3b7f-414a-4b85-b386-6e6b40375f6a)
  
